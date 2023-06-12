@@ -87,6 +87,10 @@ Frustrações com outros sites: Luiza se frustra com sites que não têm uma sel
 Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu repertório literário, descobrir novos talentos da escrita, conectar-se com outros jovens leitores e compartilhar suas próprias histórias e poesias com uma comunidade acolhedora.
 
 ## Histórias de Usuários
+|EU COMO (PERSONA)|QUERO/PRECISO...(FUNCIONALIDADE)|PARA...(MOTIVO/VALOR)|
+| --- | --- | --- |
+|Maria Oliveira|Eu quer que o BookWorld seja capaz de recomendar livros personalizados com base em suas preferências de gênero e autores favoritos. |O motivo é encontrar novas leituras que se encaixem perfeitamente em seus interesses e expandir seu conhecimento sobre diferentes períodos históricos.|
+
 
 ## Requisitos
 
