@@ -2,7 +2,7 @@
 
 ## Personas
 ### Maria Oliveira
-![Maria Oliveira](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/fa3222c1-74dc-446c-adc5-b1ca28d1294c)
+![Maria Oliveira](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/82d675d6-2443-4b08-9feb-9f186488efc3)
 
 Idade: 35 anos
 
@@ -19,7 +19,7 @@ Frustrações com outros sites: Maria fica frustrada com sites que não oferecem
 Motivação: Maria está motivada a utilizar o BookWorld para expandir sua biblioteca pessoal, descobrir novos autores e encontrar pessoas com quem possa compartilhar sua paixão pela literatura.
 
 ### Pedro Santos
-![Pedro Santos](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/f1553b27-4dd3-431e-8af2-b7e4ac70b38d)
+![Pedro Santos](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/43895c50-2aef-4ac7-bc80-8c2cd8a19460)
 
 Idade: 28 anos
 
@@ -36,7 +36,8 @@ Frustrações com outros sites: Pedro se frustra com sites que têm poucas opç�
 Motivação: A motivação de Pedro é utilizar o BookWorld para descobrir novos lançamentos de ficção científica e fantasia, trocar ideias com outros fãs do gênero e encontrar recomendações personalizadas com base em seus interesses específicos.
 
 ### Ana Silva
-![Ana Silva](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/101c675c-31ba-4387-a135-8ea24462bce8)
+![Ana Silva](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/2f1ae8e7-8b7d-4b57-a5b5-50e6d693085a)
+
 Idade: 22 anos
 
 Gênero: Feminino
@@ -52,7 +53,7 @@ Frustrações com outros sites: Ana se frustra com sites que não fornecem recom
 Motivação: A motivação de Ana é utilizar o BookWorld para ampliar seu repertório de livros de suspense e mistério, descobrir novos autores nesse gênero, compartilhar suas opiniões sobre suas leituras e encontrar recomendações personalizadas que atendam aos seus gostos específicos. Ela também está motivada a se conectar com outros leitores apaixonados por esses gêneros, trocar ideias e participar de discussões envolventes sobre os livros que mais gosta.
 
 ### André Costa
-![André Costa](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/e1598701-2320-4557-ac00-b1569f40e064)
+![André Costa](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/0bc50d24-e305-486b-b978-ca4b59ee584c)
 
 Idade: 45 anos
 
@@ -69,7 +70,7 @@ Frustrações com outros sites: André fica frustrado com sites que têm poucas 
 Motivação: A motivação de André é utilizar o BookWorld para encontrar livros que o ajudem a se destacar em sua área profissional, trocar experiências com outros executivos e se manter atualizado com as últimas tendências do mundo dos negócios.
 
 ### Luiza Mendes
-![Luiza Mendes](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/9f367c3a-72b2-450c-80e8-816ad56156a2)
+![Luiza Mendes](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/997663e0-6c7a-48cd-91f4-92b22e409e4e)
 
 Idade: 18 anos
 
