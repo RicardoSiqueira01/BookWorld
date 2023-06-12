@@ -89,8 +89,13 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 ## Histórias de Usuários
 |EU COMO (PERSONA)|QUERO/PRECISO...(FUNCIONALIDADE)|PARA...(MOTIVO/VALOR)|
 | --- | --- | --- |
-|Maria Oliveira|Eu quer que o BookWorld seja capaz de recomendar livros personalizados com base em suas preferências de gênero e autores favoritos. |O motivo é encontrar novas leituras que se encaixem perfeitamente em seus interesses e expandir seu conhecimento sobre diferentes períodos históricos.|
+|Maria Oliveira|Eu quero que o BookWorld seja capaz de recomendar livros personalizados com base em suas preferências de gênero e autores favoritos. |O motivo é encontrar novas leituras que se encaixem perfeitamente em seus interesses e expandir seu conhecimento sobre diferentes períodos históricos.|
 
+|Maria Oliveira|deseja que o BookWorld ofereça uma plataforma interativa onde ela possa interagir com outros leitores que compartilham o mesmo interesse por romances históricos. Ela busca um espaço onde possa participar de discussões, trocar recomendações e compartilhar suas próprias experiências literárias.|O objetivo é criar conexões significativas com outros entusiastas da leitura.|
+
+|Maria Oliveira|Quero que o BookWorld forneça avaliações confiáveis e análises aprofundadas para ajudá-la a tomar decisões informadas.|O motivo é garantir que cada leitura seja uma experiência enriquecedora e satisfatória, selecionando livros de alta qualidade e evitando decepções literárias.|
+
+||||
 
 ## Requisitos
 
