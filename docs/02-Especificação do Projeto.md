@@ -107,7 +107,7 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 |ID|Descrição do Requisito|PRIORIDADE|
 | --- | --- | --- |
 |RF-001|Recomendações de livros na página inicial, com base em: preferências de gêneros e autores favoritos|Alta|
-|RF-002|Barra de pesquisa na homepage.|Alta|
+|RF-002|Deve haver um mecanismo de pesquisa de livros na homepage.|Alta|
 |RF-003|Uma plataforma de interação entre leitores|Alta|
 |RF-004|Um filtro de pesquisa com: gênero, autor e avaliações dos leitores|Média|
 |RF-005|Deve haver um espaço para que os leitores avaliem os livros e escrevam suas análises|Média|
