@@ -119,6 +119,7 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 ## Requisitos
 ### Requisitos Funcionais 
 |ID|Descrição do Requisito|PRIORIDADE|
+| --- | --- | --- |
 |RF-001|Recomendações de livros na página inicial, com base em: preferências de gêneros e autores favoritos|Alta|
 |RF-002|Barra de pesquisa na homepage.|Alta|
 |RF-003|Uma plataforma de interação entre leitores|Alta|
@@ -130,6 +131,7 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 
 ### Requisitos Não-Funcionais
 |ID|Descrição do Requisito|PRIORIDADE|
+| --- | --- | --- |
 |RNF-001|Uma interface intuitiva com design limpo e organizado|Alta|
 |RNF-002|O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku)|Alta|
 |RNF-003|O site deve ter bom nível de contraste entre os elementos da tela em conformidade|Média|
@@ -137,6 +139,7 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 
 ## Restrições
 |ID|Restrição|
+| --- | --- |
 |RE-001|O aplicativo deve se restringir às tecnologias básicas da Web no Backend|
 
 ## Diagrama de Casos de Uso
