@@ -118,6 +118,9 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 ## Requisitos
 
 ### Requisitos Funcionais
+|ID|Descrição do Requisito|PRIORIDADE|
+|RF-001|||
+
 
 ### Requisitos Não-Funcionais
 
