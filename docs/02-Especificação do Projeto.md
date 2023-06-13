@@ -115,15 +115,28 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 |Pedro Santos|Ele quer encontrar livros que abordem de forma aprofundada os temas relevantes ao seu curso e que forneçam informações atualizadas e confiáveis.|O motivo é aprimorar sua compreensão dos conceitos acadêmicos e adquirir conhecimentos práticos para sua futura carreira profissional.|
 |Pedro Santos|Pedro Santos busca um site que forneça acesso a material didático e recursos complementares, como guias de estudo, resumos e exemplos práticos. Ele precisa de um espaço onde possa encontrar materiais de apoio que facilitem seu aprendizado e aprofundem seu entendimento sobre os assuntos estudados.|O motivo é maximizar seu desempenho acadêmico e obter uma compreensão abrangente dos tópicos abordados em suas disciplinas.|
 |Pedro Santos|Quer fazer parte de uma comunidade online de estudantes onde possa interagir com colegas que compartilham o mesmo curso ou área de estudo.|O motivo é obter apoio mútuo, compartilhar recursos e fortalecer sua rede de contatos para futuras oportunidades profissionais.|
-## Requisitos
 
-### Requisitos Funcionais
+## Requisitos
+### Requisitos Funcionais 
 |ID|Descrição do Requisito|PRIORIDADE|
-|RF-001|||
+|RF-001|Recomendações de livros na página inicial, com base em: preferências de gêneros e autores favoritos|Alta|
+|RF-002|Barra de pesquisa na homepage.|Alta|
+|RF-003|Uma plataforma de interação entre leitores|Alta|
+|RF-004|Um filtro de pesquisa com: gênero, autor e avaliações dos leitores|Média|
+|RF-005|Deve haver um espaço para que os leitores avaliem os livros e escrevam suas análises|Média|
+|RF-006|Salvar os livros favoritos|Médio|
+|RF-007|Uma área onde os usuários possam desenvolver e compartilhar suas histórias, recebendo feedback de outros usuários|Baixa|
 
 
 ### Requisitos Não-Funcionais
+|ID|Descrição do Requisito|PRIORIDADE|
+|RNF-001|Uma interface intuitiva com design limpo e organizado|Alta|
+|RNF-002|O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku)|Alta|
+|RNF-003|O site deve ter bom nível de contraste entre os elementos da tela em conformidade|Média|
+|RNF-004|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)|Alta|
 
 ## Restrições
+|ID|Restrição|
+|RE-001|O aplicativo deve se restringir às tecnologias básicas da Web no Backend|
 
 ## Diagrama de Casos de Uso
