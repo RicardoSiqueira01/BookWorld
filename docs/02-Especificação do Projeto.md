@@ -129,3 +129,4 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 |RE-001|O aplicativo deve se restringir às tecnologias básicas da Web no Backend|
 
 ## Diagrama de Casos de Uso
+![Caso de uso BookWorld](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/a8ecd423-adb9-4a50-ad74-8165389c3dee)
