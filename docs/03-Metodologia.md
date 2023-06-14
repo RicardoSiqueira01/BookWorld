@@ -25,13 +25,9 @@ A equipe está organizada da seguinte maneira:
 
 ⦁	Product Owner: Ricardo Moreira
 
-⦁	Equipe de Desenvolvimento:
+⦁	Equipe de Desenvolvimento: Ricardo Moreira
 
-⦁	Ricardo Moreira
-
-⦁	Equipe de Design:
-
-⦁	Ricardo Moreira
+⦁	Equipe de Design: Ricardo Moreira
 
 Para organização e distribuição das tarefas do projeto, eu estarei utilizando o GitHub estruturado com as seguintes listas: 
 ⦁	Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
