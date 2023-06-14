@@ -30,12 +30,19 @@ A equipe está organizada da seguinte maneira:
 ⦁	Equipe de Design: Ricardo Moreira
 
 Para organização e distribuição das tarefas do projeto, eu estarei utilizando o GitHub estruturado com as seguintes listas: 
+
 ⦁	Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
+
 ⦁	Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
 ⦁	To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+
 ⦁	Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
 ⦁	Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
+
 ⦁	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
 ⦁	Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
 
