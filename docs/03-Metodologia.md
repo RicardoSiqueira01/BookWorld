@@ -22,12 +22,15 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A equipe está organizada da seguinte maneira:
 
 ⦁	Scrum Master: Ricardo Moreira
+
 ⦁	Product Owner: Ricardo Moreira
 
-⦁	Equipe de Desenvolvimento
+⦁	Equipe de Desenvolvimento:
+
 ⦁	Ricardo Moreira
 
-⦁	Equipe de Design
+⦁	Equipe de Design:
+
 ⦁	Ricardo Moreira
 
 Para organização e distribuição das tarefas do projeto, eu estarei utilizando o GitHub estruturado com as seguintes listas: 
