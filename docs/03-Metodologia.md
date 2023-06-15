@@ -30,7 +30,9 @@ A equipe está organizada da seguinte maneira:
 ⦁	Equipe de Design: Ricardo Moreira
 
 
-Para organização e distribuição das tarefas do projeto, eu estarei utilizando o GitHub estruturado com as seguintes listas: 
+Para organização e distribuição das tarefas do projeto, eu estarei utilizando o Trello estruturado com as seguintes listas: 
+
+⦁	Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
 
 ⦁	Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
 
