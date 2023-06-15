@@ -8,7 +8,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Repositório de código fonte|GitHub|https://github.com/RicardoSiqueira01/BookWorld|
 |Documentos do projeto|GitHub|https://github.com/RicardoSiqueira01/BookWorld/tree/main/docs|
 |Projeto de interfaces e Wirefrmaes|Figma|https://www.figma.com/files/recent?fuid=1220510214969639289|
-|Gerenciamento do Projeto|GitHub|https://github.com/users/RicardoSiqueira01/projects/2|
+|Gerenciamento do Projeto|Trello|https://trello.com/b/eXvQhSDV/bookworld|
 
 ## Gestão de código fonte
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. 
