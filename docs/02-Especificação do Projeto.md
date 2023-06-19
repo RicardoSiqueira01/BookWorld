@@ -18,23 +18,6 @@ Frustrações com outros sites: Maria fica frustrada com sites que não oferecem
 
 Motivação: Maria está motivada a utilizar o BookWorld para expandir sua biblioteca pessoal, descobrir novos autores e encontrar pessoas com quem possa compartilhar sua paixão pela literatura.
 
-### Pedro Santos
-![Pedro Santos](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/43895c50-2aef-4ac7-bc80-8c2cd8a19460)
-
-Idade: 28 anos
-
-Gênero: Masculino
-
-Área de Ocupação: Engenheiro de Software
-
-Gostos: Pedro é um fã de ficção científica e fantasia. Ele também gosta de explorar livros de não-ficção relacionados à tecnologia e ciências.
-
-Por que quer um site como o BookWorld: Pedro está em busca de um site como o BookWorld para encontrar recomendações de livros dentro de seus gêneros favoritos, participar de discussões temáticas e expandir seu conhecimento literário. Ele deseja uma plataforma que seja intuitiva e ofereça recursos avançados de pesquisa.
-
-Frustrações com outros sites: Pedro se frustra com sites que têm poucas opções de busca avançada e que não possuem uma comunidade ativa de leitores especializados em seu gênero preferido. Ele também não gosta de plataformas com interfaces complicadas e desorganizadas.
-
-Motivação: A motivação de Pedro é utilizar o BookWorld para descobrir novos lançamentos de ficção científica e fantasia, trocar ideias com outros fãs do gênero e encontrar recomendações personalizadas com base em seus interesses específicos.
-
 ### Ana Silva
 ![Ana Silva](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/2f1ae8e7-8b7d-4b57-a5b5-50e6d693085a)
 
@@ -95,12 +78,9 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 |Maria Oliveira|Quero que o BookWorld forneça avaliações confiáveis e análises aprofundadas para ajudá-la a tomar decisões informadas.|O motivo é garantir que cada leitura seja uma experiência enriquecedora e satisfatória, selecionando livros de alta qualidade e evitando decepções literárias.|
 |André Costa|Ele busca um layout responsivo que seja otimizado para uso em dispositivos móveis, permitindo que ele acesse o site facilmente em seu smartphone durante suas viagens de negócios.|Para utilizar o site onde e quando quiser|
 |André Costa|Ele gostaria de ter a opção de salvar seus livros favoritos em uma lista de leitura.|Para eu acessar com mais velocidade os meus livros|
-|André Costa|busca um site que não apenas ofereça livros de negócios, mas também proporcione a oportunidade de interagir com outros profissionais da mesma área.|Para ampliar sua visão e aprender com a experiência coletiva de outros profissionais.|
 |Luiza Mendes|Ela precisa de um site que ofereça um espaço seguro e acolhedor para compartilhar suas histórias e receber feedback construtivo de outros escritores e leitores.|O motivo é aprimorar suas habilidades de escrita, ganhar confiança e encontrar inspiração para novas histórias. Luiza busca uma comunidade que possa ajudá-la a crescer como escritora e compartilhar suas paixões literárias.|
 |Ana Silva|Ela busca uma estrutura clara de categorias e subcategorias, para que possa explorar diferentes gêneros literários de forma rápida e intuitiva. |Facilitar a navegação.|
 |Ana Silva|Valorizo uma página de detalhes do livro que apresente sinopses, informações sobre o autor e avaliações dos leitores.|Para obter mais informações sobre o livro que tive interesse.|
-|Ana Silva|Ela precisa de um site que ofereça recursos para criar e participar de clubes de leitura virtuais, onde possa compartilhar suas opiniões, trocar ideias e participar de discussões significativas sobre os livros lidos.|O motivo é aprofundar sua compreensão das obras, ter insights valiosos de outros leitores e desfrutar da experiência social da leitura.|
-|Pedro Santos|Quer fazer parte de uma comunidade online de estudantes onde possa interagir com colegas que compartilham o mesmo curso ou área de estudo.|O motivo é obter apoio mútuo, compartilhar recursos e fortalecer sua rede de contatos para futuras oportunidades profissionais.|
 
 ## Requisitos
 ### Requisitos Funcionais 
@@ -108,7 +88,6 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 | --- | --- | --- |
 |RF-001|Recomendações de livros na página inicial, com base em: preferências de gêneros e autores favoritos|Alta|
 |RF-002|Deve haver um mecanismo de pesquisa de livros na homepage.|Alta|
-|RF-003|Uma plataforma de interação entre leitores|Alta|
 |RF-004|Um filtro de pesquisa com: gênero, autor e avaliações dos leitores|Média|
 |RF-005|Deve haver um espaço para que os leitores avaliem os livros e escrevam suas análises|Média|
 |RF-006|Salvar os livros favoritos|Médio|
