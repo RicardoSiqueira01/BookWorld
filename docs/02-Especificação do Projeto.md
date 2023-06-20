@@ -52,23 +52,6 @@ Frustrações com outros sites: André fica frustrado com sites que têm poucas 
 
 Motivação: A motivação de André é utilizar o BookWorld para encontrar livros que o ajudem a se destacar em sua área profissional, trocar experiências com outros executivos e se manter atualizado com as últimas tendências do mundo dos negócios.
 
-### Luiza Mendes
-![Luiza Mendes](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/997663e0-6c7a-48cd-91f4-92b22e409e4e)
-
-Idade: 18 anos
-
-Gênero: Feminino
-
-Área de Ocupação: Estudante do Ensino Médio
-
-Gostos: Luiza gosta de ler romances jovens adultos, distopias e livros de fantasia. Ela também aprecia poesia contemporânea.
-
-Por que quer um site como o BookWorld: Luiza busca um site como o BookWorld para descobrir novos livros em seus gêneros favoritos e encontrar recomendações para suas leituras escolares e projetos de escrita criativa. Ela deseja uma plataforma onde possa se conectar com outros leitores jovens, compartilhar suas próprias criações literárias e encontrar inspiração para sua paixão pela escrita.
-
-Frustrações com outros sites: Luiza se frustra com sites que não têm uma seleção ampla de livros voltados para seu público-alvo e que não oferecem recursos interativos para os leitores jovens. Ela também acha difícil encontrar um espaço online seguro onde possa interagir com outros jovens apaixonados por leitura e escrita.
-
-Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu repertório literário, descobrir novos talentos da escrita, conectar-se com outros jovens leitores e compartilhar suas próprias histórias e poesias com uma comunidade acolhedora.
-
 ## Histórias de Usuários
 |EU COMO (PERSONA)|QUERO/PRECISO...(FUNCIONALIDADE)|PARA...(MOTIVO/VALOR)|
 | --- | --- | --- |
@@ -78,7 +61,6 @@ Motivação: A motivação de Luiza é utilizar o BookWorld para expandir seu re
 |Maria Oliveira|Quero que o BookWorld forneça avaliações confiáveis e análises aprofundadas para ajudá-la a tomar decisões informadas.|O motivo é garantir que cada leitura seja uma experiência enriquecedora e satisfatória, selecionando livros de alta qualidade e evitando decepções literárias.|
 |André Costa|Ele busca um layout responsivo que seja otimizado para uso em dispositivos móveis, permitindo que ele acesse o site facilmente em seu smartphone durante suas viagens de negócios.|Para utilizar o site onde e quando quiser|
 |André Costa|Ele gostaria de ter a opção de salvar seus livros favoritos em uma lista de leitura.|Para eu acessar com mais velocidade os meus livros|
-|Luiza Mendes|Ela precisa de um site que ofereça um espaço seguro e acolhedor para compartilhar suas histórias e receber feedback construtivo de outros escritores e leitores.|O motivo é aprimorar suas habilidades de escrita, ganhar confiança e encontrar inspiração para novas histórias. Luiza busca uma comunidade que possa ajudá-la a crescer como escritora e compartilhar suas paixões literárias.|
 |Ana Silva|Ela busca uma estrutura clara de categorias e subcategorias, para que possa explorar diferentes gêneros literários de forma rápida e intuitiva. |Facilitar a navegação.|
 |Ana Silva|Valorizo uma página de detalhes do livro que apresente sinopses, informações sobre o autor e avaliações dos leitores.|Para obter mais informações sobre o livro que tive interesse.|
 
