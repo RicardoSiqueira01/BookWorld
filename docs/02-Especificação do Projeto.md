@@ -73,8 +73,6 @@ Motivação: A motivação de André é utilizar o BookWorld para encontrar livr
 |RF-004|Um filtro de pesquisa com: gênero, autor e avaliações dos leitores|Média|
 |RF-005|Deve haver um espaço para que os leitores avaliem os livros e escrevam suas análises|Média|
 |RF-006|Salvar os livros favoritos|Médio|
-|RF-007|Uma área onde os usuários possam desenvolver e compartilhar suas histórias, recebendo feedback de outros usuários|Baixa|
-
 
 ### Requisitos Não-Funcionais
 |ID|Descrição do Requisito|PRIORIDADE|
