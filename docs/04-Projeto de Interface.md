@@ -16,6 +16,9 @@ Nossa principal preocupação ao projetar a interface é torná-la intuitiva e e
 ### Cadastro
 ![Desktop - Cadastro](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/b05f187e-d8f4-4b16-904c-c8a7ede13f9e)
 
+### Escolha de Gêneros
+![Desktop - Escolha seus gêneros](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/8b4d3a9a-ab4a-4d1f-a6ef-6583ed508b29)
+
 ### Login
 ![Desktop - Login](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/22159e83-6b3e-47cd-bdd4-281c32186f55)
 
@@ -56,6 +59,9 @@ Nossa principal preocupação ao projetar a interface é torná-la intuitiva e e
 
 ### Cadastro
 ![Cadastro](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/4e418739-aad9-47b3-b880-cc0e43ad17f1)
+
+### Escolha de Gêneros
+![Escolha seus gêneros](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/5f151230-cad2-4436-9702-74d3bc1bcefe)
 
 ### Login
 ![Login](https://github.com/RicardoSiqueira01/BookWorld/assets/106103247/00e57ae7-ab8b-4932-a9e4-affdda321dd3)
